@@ -33,7 +33,7 @@ education:
       year: 2012
     - course: 口腔临床医学，硕士 导师：赵怡芳 教授
       institution: 武汉大学
-      year: 2009
+      year: 2008
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
