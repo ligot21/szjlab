@@ -8,18 +8,18 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        孙志军
+        实验室
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        **孙志军实验室** 主要研究口腔癌的肿瘤免疫逃逸机制、免疫治疗及纳米医学，致力于医工交叉，利用先进纳米技术用于口腔癌的诊断及免疫治疗。.
   
   - block: collection
     content:
-      title: Latest News
+      title: 最新动态
       subtitle:
       text:
       count: 5
