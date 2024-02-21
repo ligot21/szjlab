@@ -31,8 +31,8 @@ education:
     - course: 口腔医学，学士
       institution: 滨州医学院
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: 口腔临床医学，硕士 导师：赵怡芳 教授
+      institution: 武汉大学
       year: 2009
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
