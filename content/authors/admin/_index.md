@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhi-Jun Sun
+title: 孙志军
 
 # Full Name (for SEO)
 first_name: Zhi-Jun
@@ -10,11 +10,11 @@ last_name: Sun
 superuser: true
 
 # Role/position
-role: Professor of Oral and Maxillofacial Surgery
+role: 口腔颌面外科学 教授
 
 # Organizations/Affiliations
 organizations:
-  - name: Wuhan University
+  - name: 武汉大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
