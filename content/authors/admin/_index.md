@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zhi-Jun Sun
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Zhi-Jun
+last_name: Sun
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Oral and Maxillofacial Surgery
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Wuhan University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
