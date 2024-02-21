@@ -49,8 +49,8 @@ social:
   - icon: orcid
     icon_pack: fas
     link: https://orcid.org/0000-0003-0932-8013
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: flask
+    icon_pack: fas
     link: https://www.webofscience.com/wos/author/record/92988
 
 # Link to a PDF of your resume/CV from the About widget.
