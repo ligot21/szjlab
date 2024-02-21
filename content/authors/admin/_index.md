@@ -46,7 +46,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:sunzj@whu.edu.cn'
-  - icon: orcid
+  - icon: microscope
     icon_pack: fas
     link: https://orcid.org/0000-0003-0932-8013
   - icon: flask
