@@ -28,15 +28,15 @@ interests:
 
 education:
   courses:
-    - course: 口腔医学，学士
-      institution: 滨州医学院
-      year: 1995/9–2000/6
-    - course: 口腔临床医学，硕士 导师：赵怡芳 教授
-      institution: 武汉大学
-      year: 2000/9–2003/6
     - course: 口腔临床医学，博士， 导师：赵怡芳 教授
       institution: 武汉大学
       year: 2003/9–2006/6
+    - course: 口腔临床医学，硕士 导师：赵怡芳 教授
+      institution: 武汉大学
+      year: 2000/9–2003/6
+    - course: 口腔医学，学士
+      institution: 滨州医学院
+      year: 1995/9–2000/6
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,10 +45,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'sunzj@whu.edu.cn'
+  - icon: f2b4
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://orcid.org/0000-0003-0932-8013
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
