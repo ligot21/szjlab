@@ -46,8 +46,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'sunzj@whu.edu.cn'
-  - icon: f2b4
-    icon_pack: fab
+  - icon: orcid
+    icon_pack: fas
     link: https://orcid.org/0000-0003-0932-8013
   - icon: google-scholar
     icon_pack: ai
