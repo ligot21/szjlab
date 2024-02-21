@@ -15,7 +15,7 @@ role: 口腔颌面外科学 教授
 # Organizations/Affiliations
 organizations:
   - name: 武汉大学
-    url: '[武汉大学链接](https://www.whu.edu.cn/)'
+    url: 'https://www.whu.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 研究方向为口腔癌肿瘤免疫及纳米医学。近5年主要研究口腔癌的肿瘤免疫逃逸机制、免疫治疗及纳米医学，致力于医工交叉，利用先进纳米技术用于口腔癌的诊断及免疫治疗。
@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'sunzj@whu.edu.cn'
+    link: 'mailto:sunzj@whu.edu.cn'
   - icon: orcid
     icon_pack: fas
     link: https://orcid.org/0000-0003-0932-8013
@@ -63,7 +63,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
